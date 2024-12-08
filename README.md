@@ -1,6 +1,5 @@
 # TEXT EDITOR FOR CASIO FX-9860G
-Text editor for casio FX-9860G
-(v.1.6 -- 27.08.2012)
+Text editor for casio FX-9860G (v.1.6 -- 27.08.2012)
 
 ![plot](./screenshot.jpg)
 
