@@ -152,8 +152,6 @@ bindings will be used in the editor window when the VARS key is used.
 The user must press on the VARS key and then defined key to call the
 bound character. Up to 20 character bindings can be defined.
 
-# 
-
 # Change log
 
 Changes to the previous version 1.51
@@ -253,7 +251,7 @@ Changes to the previous version 1.0
 
 #  Function reference
 
-## [FILE EXPLORER]{.underline}
+### File Explorer
 
 Main menu commands:
 
@@ -300,7 +298,7 @@ Root menu commands:
 
 -   SDC: Change to SD Card as root directory.
 
-### TEXT EDITOR
+### Text Editor
 
 Main menu commands:
 
@@ -392,7 +390,7 @@ Information in the top bar:
     lower, (A) Alpha upper,(b) Alpha locked lower, (B) Alpha locked
     upper.
 
-### SET UP
+### Setup
 
 Try SDC:
 
